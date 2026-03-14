@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Ukeme Daniel 👋
 
-<!--
-**ukemedev/ukemedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS undergraduate | University of Uyo, Nigeria  
+Building **EverydayAI** — an AI agent platform for businesses  
+Interested in Web Security & Penetration Testing
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔨 What I'm Building
+- **EverydayAI** — No-code AI agent platform for WhatsApp/Instagram customer service
+
+## 📚 Currently Learning
+- Web penetration testing & ethical hacking
+- Linux & OS fundamentals
+- Python & backend development
+
+## 🎯 Goals
+- Become a professional web penetration tester
+- Build EverydayAI into a global AI SaaS product
+- Contribute to open source security tools
+
+## 📫 Connect With Me
+- GitHub: [@ukemedev](https://github.com/ukemedev)
+
+---
+*Building from Nigeria. Thinking globally.*
